@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v1.0.4/LectorTelmex-1.0.4.zip",
-  "sha256": "b5791b6d9ee5a2c25a702c8410cd1e450024de44334c0c9b374cbd9ace241fe5",
-  "notes": "Correccion de icono de aplicacion en Windows",
+  "version": "1.0.5",
+  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v1.0.5/conciliaciontelmex-adan-calixto-1.0.5.zip",
+  "sha256": "11e4f62f8f1ab9288a796b82c71a663f570f0ad86f58a4e74597db2cb7eb7dce",
+  "notes": "Actualizacion 1.0.5",
   "auto_apply": true
 }
