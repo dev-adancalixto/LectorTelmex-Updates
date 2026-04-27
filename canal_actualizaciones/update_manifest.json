@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v1.0.3/LectorTelmex-1.0.3.zip",
-  "sha256": "8f0b7a0c70208cc78f3c7aa294001dc20e5149ad58acec171655ca6da592f710",
-  "notes": "Actualizacion 1.0.3",
+  "version": "1.0.4",
+  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v1.0.4/LectorTelmex-1.0.4.zip",
+  "sha256": "b5791b6d9ee5a2c25a702c8410cd1e450024de44334c0c9b374cbd9ace241fe5",
+  "notes": "Correccion de icono de aplicacion en Windows",
   "auto_apply": true
 }
