@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v1.0.2/LectorTelmex-1.0.2.zip",
+  "version": "1.0.3",
+  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v1.0.3/LectorTelmex-1.0.3.zip",
   "sha256": "8f0b7a0c70208cc78f3c7aa294001dc20e5149ad58acec171655ca6da592f710",
-  "notes": "Actualizacion 1.0.2",
+  "notes": "Actualizacion 1.0.3",
   "auto_apply": true
 }
