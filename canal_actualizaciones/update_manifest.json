@@ -1,7 +1,7 @@
 {
-  "version": "1.1.2",
-  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v1.1.2/conciliaciontelmex-adan-calixto-1.1.2.zip",
-  "sha256": "6de734fb9467160b42cdda1ebb3a019ad21bd36d4c829644e8e90c35cb793679",
-  "notes": "Actualizacion 1.1.2",
+  "version": "1.1.3",
+  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v1.1.3/conciliaciontelmex-adan-calixto-1.1.3.zip",
+  "sha256": "1d96ecbdff35e0ec3b72582ad513b2ad5ab79ba89f44bf16ab2cc1ad485657f9",
+  "notes": "Actualizacion 1.1.3",
   "auto_apply": true
 }
