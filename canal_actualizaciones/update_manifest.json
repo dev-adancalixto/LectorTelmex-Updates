@@ -1,7 +1,8 @@
 {
-  "version": "1.1.5",
-  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v1.1.5/conciliaciontelmex-adan-calixto-1.1.5.zip",
-  "sha256": "5512a27b6246b7897aeb9f9124cdadc7360a5480da3b8df1827c65d7a6cb946c",
-  "notes": "Actualizacion 1.1.5",
-  "auto_apply": true
+  "version": "2.0.0",
+  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v2.0.0/conciliaciontelmex-adan-calixto-2.0.0.zip",
+  "sha256": "a2b207ae5032cf10958e5b7379adcac378d081107fc698f73f18a5fa29b309a6",
+  "firma": "mGMne0SfSgspdmi9fv7oxVW9gsOPOurtbxkqGdvbYcegPSfBEts733M1dh9bkNDw33PhZWMssNWAzxJ8pfyADw==",
+  "notes": "Version 2.0: lector con validacion de totales, nueva interfaz con visor de recibos, bandeja de revision, pagos parciales y mayor velocidad.",
+  "auto_apply": false
 }
