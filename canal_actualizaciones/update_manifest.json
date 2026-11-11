@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
-  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v2.0.0/conciliaciontelmex-adan-calixto-2.0.0.zip",
-  "sha256": "a2b207ae5032cf10958e5b7379adcac378d081107fc698f73f18a5fa29b309a6",
-  "firma": "mGMne0SfSgspdmi9fv7oxVW9gsOPOurtbxkqGdvbYcegPSfBEts733M1dh9bkNDw33PhZWMssNWAzxJ8pfyADw==",
-  "notes": "Version 2.0: lector con validacion de totales, nueva interfaz con visor de recibos, bandeja de revision, pagos parciales y mayor velocidad.",
+  "version": "2.0.1",
+  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v2.0.1/conciliaciontelmex-adan-calixto-2.0.1.zip",
+  "sha256": "f3f99b85ad6c1dd4b6a231be5fe1df14fe8f6bdab50462448c9d787dffa70d27",
+  "firma": "2I7e+Bzns1FoD+ZNSAy+hDVtgj/JmS8a8oSQkEeRrJ5bOiygU3bsBHFlpCAcW25Bns6LPnRjWGjEFv7gKQgnCw==",
+  "notes": "Version 2.0.1: lee los recibos nuevos de Telmex (desde octubre 2026) que traen hojas de publicidad antes de los datos.",
   "auto_apply": false
 }
