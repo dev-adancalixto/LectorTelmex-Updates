@@ -1,8 +1,8 @@
 {
-  "version": "2.0.2",
-  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v2.0.2/conciliaciontelmex-adan-calixto-2.0.2.zip",
-  "sha256": "5d8dbf425c565b12731f0070f76e7acbef03059020862291673fcf9cff1ad71c",
-  "firma": "fP7VkTwChpMX0PuJqkRIefvyZy6PKCWSMeDl6ZSoaZXZsYnoIleTnoiKu2RNi0u1eGVbNqtvjMkhMKAfuS+CCA==",
-  "notes": "Version 2.0.2: corrige el error que aparecia al guardar un recibo.",
+  "version": "2.1.0",
+  "package_url": "https://github.com/dev-adancalixto/LectorTelmex-Updates/releases/download/v2.1.0/conciliaciontelmex-adan-calixto-2.1.0.zip",
+  "sha256": "8df075098a5ae01209b959375f61f0b0721f6a74c616e0a2a2a0f85dffdbf0c0",
+  "firma": "cfqAZE6MK+fwGczJxbHgSb2AYfAtqDuEpmdrU3WbuMT0PGv2qny57ZHAUFc6z+0lOIOXjpnlmFn1HYjF0qMUBA==",
+  "notes": "Lectura renovada: sin visor; carga masiva con lista previa que ignora los recibos ya cargados y muestra el resultado de cada archivo. Conciliacion: columna UUID con palomita y captura rapida con doble clic.",
   "auto_apply": false
 }
